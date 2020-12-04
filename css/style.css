@@ -11,6 +11,8 @@ main {
      max-width: 1000px;
     overflow: hidden;
     margin: auto;
+    font-family: 'Roboto', sans-serif;
+
 }
 /* Chrome, Safari, Edge, Opera */
 input::-webkit-outer-spin-button,
